@@ -1,5 +1,7 @@
 ![](Assets/header2.jpg)
 
+<img width="490" src="https://github.com/YamamotoDesu/SkeletonView/blob/main/SkeletonView.gif">
+
 <p align="center">
     <a href="https://github.com/Juanpe/SkeletonView/actions?query=workflow%3ACI">
       <img src="https://github.com/Juanpe/SkeletonView/workflows/CI/badge.svg">
